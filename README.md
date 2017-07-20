@@ -6,8 +6,7 @@ A skeleton React app built with Node.js. Configured w/Babel and Webpack.
 
 ```sh
 git clone https://github.com/tadorsey735/basic-react.git
-cd basic-react
-npm install
+cd basic-react && npm install
 npm run build
 npm start
 ```
